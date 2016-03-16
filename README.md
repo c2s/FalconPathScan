@@ -15,8 +15,4 @@ Enumeration web path scanning tools, use the dictionary
     # Use the help, for example falcon.py http://www.google.com/ 10
     # 10 is the thread here
     # The results of the scan in FalconPathScan/results.txt
-    
-    
-    
-    
- ![image](https://www.jisec.com/wp-content/uploads/2016/03/FB2D8E30-6B1F-4E58-9632-1A2C1ABF5851.jpg)
+    # https://www.jisec.com/original-tools/495.html
