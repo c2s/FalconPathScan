@@ -19,4 +19,4 @@ Enumeration web path scanning tools, use the dictionary
     
     
     
- ![](https://www.jisec.com/wp-content/uploads/2016/03/FB2D8E30-6B1F-4E58-9632-1A2C1ABF5851.jpg)
+ ![image](https://www.jisec.com/wp-content/uploads/2016/03/FB2D8E30-6B1F-4E58-9632-1A2C1ABF5851.jpg)
